@@ -1,0 +1,20 @@
+//----------------------------------//
+//          PATRON DE COLORES-------//
+$principal: #bb0c0c;
+$segundario: #f8eceb ;
+$texto:#000000;
+
+body{
+    background: $segundario;
+    color:$texto;
+    
+}
+
+.colorRed{
+    color: $principal !important;;
+}
+
+.border-top {
+    border-top: 3px solid $texto !important;
+}
+
